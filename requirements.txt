@@ -1,0 +1,12 @@
+opencv-python-headless==4.5.3.56
+autokeras==1.1.0
+
+keras==2.14.0
+
+
+numpy==1.25.2
+
+
+tensorflow==2.14.0
+
+
